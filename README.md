@@ -12,7 +12,7 @@ This project presents an interactive Power BI dashboard for analyzing Starbucks 
 
 - Microsoft Power BI
 - Power Query
-- DAX (only if used)
+- DAX 
 
 ## Key Insights
 
